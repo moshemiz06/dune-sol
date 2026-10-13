@@ -2,6 +2,8 @@
 
 An interactive 3D interpretation of Arrakis during the opening of Frank Herbert’s *Dune*, before Paul and Jessica’s escape into the desert.
 
+[Open the live atlas](https://moshemiz06.github.io/dune-sol/). GitHub Pages automatically rebuilds and publishes the site when changes land on `main`.
+
 Explore Arrakeen, the Atreides residence, the natural Shield Wall, a spice crawler with its carryall, and the city’s landing field. A separate orbital view includes Arrakis and both moons. Architecture, spatial arrangement, planetary markings, and scale are illustrative.
 
 ## Run locally

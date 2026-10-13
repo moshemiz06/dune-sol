@@ -23,7 +23,7 @@ try {
   });
 } catch {
   el("loader").remove();
-  container.innerHTML = `<div class="fallback"><div><h2>Your world is ready.</h2><p>This browser couldn’t start a 3D renderer. You can still download the complete models and open them in Blender or another 3D viewer.</p><a href="/models/arrakis-landscape.glb" download>Download the landscape model</a></div></div>`;
+  container.innerHTML = `<div class="fallback"><div><h2>Your world is ready.</h2><p>This browser couldn’t start a 3D renderer. You can still download the complete models and open them in Blender or another 3D viewer.</p><a href="./models/arrakis-landscape.glb" download>Download the landscape model</a></div></div>`;
   renderer = null!;
 }
 let currentId: LocationId = "arrakeen",
